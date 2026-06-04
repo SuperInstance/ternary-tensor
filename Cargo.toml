@@ -1,0 +1,6 @@
+[package]
+name = "ternary-tensor"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Tensor operations for ternary multi-dimensional arrays"
