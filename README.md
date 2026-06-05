@@ -101,3 +101,12 @@ This crate is the foundational data structure for multi-dimensional ternary comp
 ## License
 
 MIT
+
+## See Also
+- **ternary-matrix** — related
+- **ternary-ring** — related
+- **ternary-network** — related
+- **ternary-graph** — related
+- **ternary-database** — related
+- **ternary-projection** — related
+
